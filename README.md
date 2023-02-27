@@ -1,2 +1,2 @@
 # Hangman-game
-Hangman game with basic GUI and features
+A maven project Hangman game with basic GUI and features.
